@@ -63,3 +63,11 @@ This project is based on **confidential learning materials provided by AnalytixL
 - Deploy dashboard using **Power BI / Tableau**  
 - Integrate **advanced ML techniques** for churn prediction or recommendation systems  
 - Automate **monthly reporting** using scripts  
+
+---
+
+## 👤 Author  
+**Pranjal Kastwar**  
+📧 Email: pranjalkastwar12@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/pranjal-kastwar-82b846177](https://www.linkedin.com/in/pranjal-kastwar-82b846177)  
+🌐 GitHub: [github.com/skkast](https://github.com/skkast)  
